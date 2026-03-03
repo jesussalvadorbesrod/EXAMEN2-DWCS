@@ -1,0 +1,20 @@
+{
+    "name": "jesussalvadorbesrod/examen-dwcs",
+    "description": "Examen del 2o trimestre",
+    "type": "project",
+    "license": "GPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jesus Salvador Besada Rodriguez",
+            "email": "jesussalvadorbesrod@iesrodeira.gal"
+        }
+    ],
+    "require": {
+        "eftec/bladeone": "^4.19"
+    }
+}
